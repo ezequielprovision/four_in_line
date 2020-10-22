@@ -18,8 +18,8 @@ Learning pygame library
 ## Instructions:
 2 players game. The cursor is replaced by a piece (yellow or red).
 
-Move the mousse and choose a column to put the piece, press left-click to drop it,
+Move the mouse and choose a column to put the piece, press left-click to drop it,
 
-then the colour will change, starting the Player 2 turn.
+and the colour will change, and the Player 2 turn will start.
 
 Once a player matches 4 pieces in line wins.
